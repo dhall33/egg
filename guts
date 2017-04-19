@@ -4,11 +4,10 @@
 
 public class exercise17 {
     public static void main(String strArgs[]) {
-        new Object objSymbol = "";
+        new Object objSymbol();
         char charOutput = "x";
-        System.out.print(char charOutput);
-
-        System.out.println("___")
+        
+        System.out.println("___");
         System.out.println("/" + charOutput + charOutput + "\\");
         System.out.println("|" + charOutput + charOutput + charOutput "|");
         System.out.println("|" + charOutput + charOutput + charOutput "|");

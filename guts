@@ -1,0 +1,12 @@
+//Daneil Hall
+//ITSE
+//Easter Egg generator
+
+public class exercise17 {
+    public static void main(String strArgs[]) {
+        char charOutput = "x";
+        System.out.print(char charOutput);
+
+
+    }
+}
